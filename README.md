@@ -21,7 +21,13 @@ Before starting, make sure you’ve completed the [React Native environment setu
    ```
 
 4. Install pre-commit hooks:
+
    ```bash
    npm run prepare
    ```
 
+Change the app's title:
+
+```bash
+npx react-native-rename "Sunflower Wallet"
+```
